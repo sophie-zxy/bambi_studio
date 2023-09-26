@@ -5,6 +5,8 @@
 the following list should be turned into a hamburger menu in the future
 </h2>
 
+<p>this change is being added to test that netlofy deployment works</p>
+
 <span>
     <ul>
         <a href="/animation_route">Animation</a>
