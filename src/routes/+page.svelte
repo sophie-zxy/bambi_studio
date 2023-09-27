@@ -1,20 +1,28 @@
-<h1>Welcome to Bambi's page</h1>
-<!-- <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
+<script>
+    import ImagePreviewCard from "$lib/ImagePreviewCard.svelte";
 
-<h2>
-the following list should be turned into a hamburger menu in the future
-</h2>
+    const images = [
+        { src: "../../Home_page_pics/wireframe.png", text: "UIUX", link: '/uiux' },
+        { src: "../../Home_page_pics/poster.jpg", text: "Graphic Design", link: '/graphic_design' },
+        { src: "../../Home_page_pics/fitlogo.png", text: "Animation", link: '/animation_route' },
+        { src: "../../Home_page_pics/Immigrate.JPG", text: "Illustration", link: '/illustration' },
+        { src: "../../Home_page_pics/drawing.JPG", text: "Sketches", link: '/sketches_route' },
+        { src: "../../Home_page_pics/photography.JPG", text: "Photography", link: '/photography' },
+    ];
+</script>
 
-<p>this change is being added to test that netlofy deployment works</p>
+<div class="join">
+    {#each images as image}
+        <ImagePreviewCard {...image}/>
+    {/each}
+</div>
 
-<span>
-    <ul>
-        <a href="/animation_route">Animation</a>
-        <a href="/graphic_design">Graphic design</a>
-        <a href="/illustration">illustration</a>
-        <a href="/photography">photography</a>
-        <a href="/sketches_route">sketches</a>
-        <a href="/uiux">UIUX</a>
-    </ul>
-</span>
+<style>
+    .join {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+        padding: 2rem;
+    }</style>
 
