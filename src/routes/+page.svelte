@@ -11,11 +11,13 @@
     ];
 </script>
 
-<div class="join">
-    {#each images as image}
-        <ImagePreviewCard {...image}/>
-    {/each}
-</div>
+<html lang="postcss">
+    <div class="join">
+        {#each images as image}
+            <ImagePreviewCard {...image}/>
+        {/each}
+    </div>
+</html>
 
 <style>
     .join {
