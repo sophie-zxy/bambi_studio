@@ -39,7 +39,9 @@
     }
 
     .btn {
-        font-size: x-small;
-        font-weight: 200;
+        font-size: small;
+        font-weight: 300;
+        background-color: rgba(199,147,136,255);
+        border-color: rgba(199,147,136,255);
     }
 </style>

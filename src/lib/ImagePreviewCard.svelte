@@ -30,16 +30,17 @@
         position: relative;
     }
     .card:hover .text {
-            background-color: rgba(255, 255, 255, 0.598);
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            transition: opacity 3s;
-            opacity: 1;
-        }
+        font-family: "EB Garamond";
+        background-color: rgba(255, 255, 255, 0.598);
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: opacity 3s;
+        opacity: 1;
+    }
     .text {
         position: absolute;
         top: 50%;
