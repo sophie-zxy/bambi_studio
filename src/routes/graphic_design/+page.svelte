@@ -22,10 +22,10 @@
         {id: 18, title: "Event Poster"},
     ]
     let nav_obj = {
-        left_link_txt: "Animation",
-        left_link: "/animation_route",
-        right_link_txt: "Illustration",
-        right_link: "/illustration"
+        left_link_txt: "UIUX",
+        left_link: "/uiux",
+        right_link_txt: "Animation",
+        right_link: "/animation_route"
     }
 
 </script>

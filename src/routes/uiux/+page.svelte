@@ -1,6 +1,6 @@
 <script>
     import UIUXCardComponent from "$lib/UIUXCardComponent.svelte";
-    import LeftArrow from "$lib/LeftArrow.svelte";
+    import RightArrow from "$lib/RightArrow.svelte";
     let cards = [
         {
             id: 1, 
@@ -30,5 +30,7 @@
             <UIUXCardComponent {...card}/>
         {/each}
     </div>
-    <LeftArrow link_txt="Sketches" link="/sketches_route"/>
+    <div class="flex justify-end">
+        <RightArrow link_txt="Graphic design" link="/graphic_design"/>
+    </div>
 </html>

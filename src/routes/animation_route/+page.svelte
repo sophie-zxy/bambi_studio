@@ -1,5 +1,12 @@
 <script>
-    import RightArrow from "$lib/RightArrow.svelte";
+    import LeftAndRightArrow from "$lib/LeftAndRightArrow.svelte";
+
+    let nav_obj = {
+        left_link_txt: "Graphic Design",
+        left_link: "/graphic_design",
+        right_link_txt: "Illustration",
+        right_link: "/illustration"
+    }
 </script>
 
 <html lang="postcss">
@@ -14,9 +21,7 @@
         <video class="videoContainer" src="../../../animation_page_pics/walk_to_run.mp4" autoplay loop muted></video>    
     </div>
 
-    <div class="flex justify-end">
-        <RightArrow link_txt="Graphic design" link="/graphic_design"/>
-    </div>
+    <LeftAndRightArrow {...nav_obj}/>
 </html>
 
 <style>

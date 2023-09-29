@@ -15,10 +15,10 @@
         {src: "../../sketches_page_pics/IMG_7894.JPG", alt: "IMG8"},
     ]
     let nav_obj = {
-        left_link_txt: "Photography",
-        left_link: "/photography",
-        right_link_txt: "UIUX",
-        right_link: "/uiux"
+        left_link_txt: "illustration",
+        left_link: "/illustration",
+        right_link_txt: "Photography",
+        right_link: "/photography"
     }
 </script>
 

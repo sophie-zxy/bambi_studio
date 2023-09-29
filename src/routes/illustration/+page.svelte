@@ -2,10 +2,10 @@
     import LeftAndRightArrow from "$lib/LeftAndRightArrow.svelte";
     import ImageCard from "$lib/ImageCard.svelte";
     let nav_obj = {
-        left_link_txt: "Graphic Design",
-        left_link: "/graphic_design",
-        right_link_txt: "Photography",
-        right_link: "/photography"
+        left_link_txt: "Animation",
+        left_link: "/animation_route",
+        right_link_txt: "sketches",
+        right_link: "/sketches_route"
     }
     let images = [
         {src: "../../illustration_page_pics/Child.jpg", alt: "Child"},

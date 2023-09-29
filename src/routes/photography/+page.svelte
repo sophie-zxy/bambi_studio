@@ -1,6 +1,5 @@
 <script lang="ts">
-
-    import LeftAndRightArrow from "$lib/LeftAndRightArrow.svelte";
+    import LeftArrow from "$lib/LeftArrow.svelte";
     import ImageCard from "$lib/ImageCard.svelte";
 
     let nav_obj = {
@@ -33,4 +32,4 @@
     {/each}
 </div>
 
-<LeftAndRightArrow {...nav_obj}/>
+<LeftArrow link_txt="Sketches" link="/sketches_route"/>
