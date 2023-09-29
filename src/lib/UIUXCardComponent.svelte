@@ -3,6 +3,7 @@
     export let title = "Title";
     export let desc = "Description";
     export let src = '../../../Home_page_pics/wireframe.png';
+    export let link = '/graphic_design';
 </script>
 
 <html lang="postcss">
@@ -12,7 +13,9 @@
           <h2 class="card-title">{title}</h2>
           <p class="card-desc mb-10">{desc}</p>
           <div class="card-actions">
-            <button class="btn btn-primary rounded-none">Read more</button>
+            <button class="btn btn-primary rounded-none" on:click={() => {
+                window.location.href = link;
+            }}>Read more</button>
           </div>
         </div>
     </div>
