@@ -13,44 +13,24 @@
     let images = [
         {src: "../../photo_page_pics/photo1.JPG", alt: "cherry blossom"},
         {src: "../../photo_page_pics/photo2.JPG", alt: "bench"},
-        // {src: "../../photo_page_pics/photo1.JPG", alt: "cherry blossom"},
         // {src: "../../photo_page_pics/photo2.JPG", alt: "bench"},
         // {src: "../../photo_page_pics/photo2.JPG", alt: "bench"},
         // {src: "../../photo_page_pics/photo1.JPG", alt: "cherry blossom"},
+        // {src: "../../photo_page_pics/photo2.JPG", alt: "bench"},
         // {src: "../../photo_page_pics/photo1.JPG", alt: "cherry blossom"},
         // {src: "../../photo_page_pics/photo2.JPG", alt: "bench"},
-        // {src: "../../photo_page_pics/photo2.JPG", alt: "bench"},
+        // {src: "../../photo_page_pics/photo1.JPG", alt: "cherry blossom"},
         // {src: "../../photo_page_pics/photo1.JPG", alt: "cherry blossom"},
     ]
-
-    // make image group 1 to contain only odd entries of images in images array
-    let image_group1: {src: string, alt: string}[] = [];
-    let image_group2: {src: string, alt: string}[] = [];
-
-
-    for (let i = 0; i < images.length; i++) {
-        if (i % 2 == 0) {
-            image_group1.push(images[i])
-        } else {
-            image_group2.push(images[i])
-        }
-    }
 </script>
 
 <style>
 </style>
 
-<div class="grid grid-cols-2 gap-5 m-14">
-    <div>
-        {#each image_group1 as image}
-            <ImageCard {...image}/>
-        {/each}
-    </div>
-    <div>
-        {#each image_group2 as image}
-            <ImageCard {...image}/>
-        {/each}
-    </div>
+<div class="columns-2 my-8 gap-12 mx-16">
+    {#each images as image}
+        <ImageCard {...image}/>
+    {/each}
 </div>
 
 <LeftAndRightArrow {...nav_obj}/>
