@@ -10,11 +10,15 @@
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
   },
   "devDependencies": {
+    "@carbon/charts-svelte": "^1.13.4",
     "@sveltejs/adapter-auto": "^2.0.0",
     "@sveltejs/adapter-netlify": "^1.0.0-next.88",
     "@sveltejs/kit": "^1.20.4",
     "@types/node": "^20.7.1",
     "autoprefixer": "^10.4.16",
+    "d3": "^7.8.5",
+    "d3-cloud": "^1.2.7",
+    "d3-sankey": "^0.12.3",
     "daisyui": "^3.8.0",
     "postcss": "^8.4.30",
     "svelte": "^4.0.5",
@@ -31,6 +35,8 @@
     "@popperjs/core": "^2.11.8",
     "flowbite": "^1.8.1",
     "flowbite-svelte": "^0.44.17",
+    "mdbsvelte": "^1.0.12",
+    "svelte-chartjs": "github:SauravKanchan/svelte-chartjs#renovate/svelte-4.x",
     "tailwind-merge": "^1.14.0"
   }
 }
