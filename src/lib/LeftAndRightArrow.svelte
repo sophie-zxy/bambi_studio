@@ -9,7 +9,7 @@
 </script>
 
 <html lang="postcss">
-    <div class="flex justify-between">
+    <div class="flex justify-between mt-9">
         <LeftArrow link_txt={left_link_txt} link={left_link}/>
         <RightArrow link_txt={right_link_txt} link={right_link}/>
     </div>
