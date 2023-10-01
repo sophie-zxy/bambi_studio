@@ -4,7 +4,7 @@
 </script>
 
 <html lang="postcss">
-        <button class="btn btn-lg no-animation bg-transparent border-transparent hover:underline" on:click={() => {
+        <button class="btn btn-lg no-animation bg-transparent border-transparent hover:underline flex-nowrap" on:click={() => {
             window.location.href = link
         }}>
             {link_txt}

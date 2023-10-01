@@ -23,7 +23,7 @@
 </script>
 
 <html lang="postcss">
-    <div class="lg:columns-3 md:columns-2 sm:columns-1 my-12 mx-44">
+    <div class="columns-1 lg:columns-3 md:columns-2 my-12 mx-16 md:mx-44">
         {#each images as image}
             <ImageCard {...image}/>
         {/each}
