@@ -77,26 +77,15 @@
         align-items: center;
         justify-content: center;
     }
-    .menuItems:hover, .closeButton:hover {
+    .menuItems:hover {
         text-decoration: underline;
     }
-    .menuItems > div, .closeButton > div {
+    .menuItems > div {
         width: 100%;
         height: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
-    }
-    .closeButton {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        cursor: pointer;
-        padding: 5px;
-        border-radius: 5px;
-        font-size: 24px;
-        background-color: white;
-
     }
 
     .hamburgerMenu {

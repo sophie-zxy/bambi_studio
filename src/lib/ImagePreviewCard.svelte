@@ -1,37 +1,33 @@
 
 <script>
+    import {onMount} from 'svelte';
+    import "@fontsource/eb-garamond/400.css"
     export let src = '';
     export let text = '';
     export let link = '';
     let squareDimension = '25rem'
     let isHovered = false;
+
+    onMount(() => {
+        isHovered = false;
+    });
 </script>
 
-<div class="card only:bg-cover bg-center"
-     style="background-image: url({src}); background-size: cover; width: {squareDimension}; height: {squareDimension};"
-     on:mouseenter={() => isHovered = true}
-     on:mouseleave={() => isHovered = false}
-     on:click={() => window.location.href = link}
-     on:keydown|preventDefault={(e) => {
-         if (e.key === 'Enter') {
-             window.location.href = link;
-         }
-     }}
+<a href={link}>
+    <div class="card only:bg-cover bg-center"
+     style="background-image: url({src}); background-size: cover; width: {squareDimension}; height: {squareDimension}; filter: brightness(.8);"
      role="button" 
      tabindex="0">
-    {#if isHovered}
-        <div class="text p-4 rounded-md animate-pulse"></div>
-        <div class="text p-4 rounded-md">{text}</div>
-    {/if}
-</div>
+     <p class="text p-4 text-white">{text}</p>
+    </div>
+</a>
 
 <style>
     .card {
         position: relative;
+        color: rgba(255, 255, 255, 0.2);
     }
-    .card:hover .text {
-        font-family: "EB Garamond";
-        background-color: rgba(255, 255, 255, 0.598);
+    /* .card:hover {
         position: absolute;
         width: 100%;
         height: 100%;
@@ -40,8 +36,10 @@
         align-items: center;
         transition: opacity 3s;
         opacity: 1;
-    }
+    } */
     .text {
+        font-family: "EB Garamond";
+        font-weight: 400;
         position: absolute;
         top: 50%;
         left: 50%;
