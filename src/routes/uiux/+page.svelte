@@ -20,7 +20,7 @@
             id: 3, 
             title: "Easychoice", 
             desc: "A site to help people with selection difficulties, you can choose a category that you need most at the moment and the site will give you a random answer. You can also add your own personal options, or add new categories.",
-            src: '../../../uiux_page_pics/Easychoice.png',
+            src: '../../../uiux_easychoice_page_pics/easychoice translucent.png',
             link: '/uiux/easychoice'
         },
     ]

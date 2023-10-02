@@ -78,9 +78,9 @@ import { PieChart, BarChartSimple } from '@carbon/charts-svelte'
                 <img src="../../../uiux_easychoice_page_pics/easychoice translucent.png" alt="ec">
             </div>
             <div class="flex items-center">
-                <div class="grid justify-items-start mx-16">
+                <div class="grid justify-items-start ml-4 md:ml-16">
                     <p class="mb-5">Easychoice</p>
-                    <h1 class="mb-5 text-4xl text-left">A web that helps people with selection difficulties.</h1>
+                    <h1 class="mb-5 text-xl md:text-4xl text-left">A web that helps people with selection difficulties.</h1>
                 </div>
             </div>
             </div>
