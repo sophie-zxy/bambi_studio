@@ -1,5 +1,4 @@
-<html lang="postcss">
-    <body class="bg-black">
+<div class="bg-black">
     <div class="hero min-h-screen" style="background-image: url('../../../uiux_heartbeat_page_pics/Hb.png');">
         <div class="hero-overlay bg-opacity-60"></div>
         <div class="text-neutral-content">
@@ -72,8 +71,7 @@
         </div>
     </div>
 </div>
-</body>
-</html>
+</div>
 
 <style>
     html {
