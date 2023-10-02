@@ -1,4 +1,4 @@
-# (Bambi's Studio)[https://tinyurl.com/bambilistudio]
+# [Bambi's Studio](https://tinyurl.com/bambilistudio)
 
 ## Developing
 
