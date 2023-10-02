@@ -14,11 +14,11 @@
 </script>
 
 <a href={link}>
-    <div class="card">
-        <div class="card only:bg-cover bg-center"
-         style="background-image: url({src}); background-size: cover; width: {squareDimension}; height: {squareDimension}; filter: brightness(0.7)">
+    <div class="grid card justify-items-center">
+        <div class="inner-card only:bg-cover bg-center"
+         style="background-image: url({src}); background-size: cover;">
         </div>
-        <p class="text p-4 text-white">{text}</p>
+        <p class="text p-4 text-black">{text}</p>
     </div>
 </a>
 
@@ -26,19 +26,28 @@
     .card {
         position: relative;
     }
-    .card:hover {
+    .inner-card {
+        width: 25rem;
+        height: 25rem;
+    }
+    .inner-card:hover {
         transform: scale(1.02);
         transition-duration: 200ms;
     }
     .text {
         font-family: "EB Garamond";
         font-weight: 400;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        font-size: 32px;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        font-size: 24px;
         z-index: 5;
+    }
+
+    @media (max-width: 640px) {
+        .inner-card {
+            width: 10rem;
+            height: 10rem;
+        }
+        .text {
+            font-size: 16px;
+        }
     }
 </style>

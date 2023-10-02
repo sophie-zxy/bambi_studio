@@ -24,7 +24,15 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 1rem;
+        gap: 2rem;
         padding: 2rem;
-    }</style>
+    }
+    /* make the peft and right padding be 1rem when on mobile screens */
+    @media (max-width: 640px) {
+        .join {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+    }
+</style>
 
