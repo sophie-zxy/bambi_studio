@@ -12,13 +12,13 @@
 <html lang="postcss">
     <div class="videoContainerWrapper">
         <div class="cropContainer">
-            <video class="videoContainer cropVideo" src="../../../animation_page_pics/FIT.mp4" autoplay loop muted></video>
+            <video class="videoContainer cropVideo" src="../../../animation_page_pics/FIT.mp4" autoplay loop muted playsinline></video>
         </div>        
-        <video class="videoContainer" src="../../../animation_page_pics/blob.mp4" autoplay loop muted></video>
-        <video class="videoContainer" src="../../../animation_page_pics/extreme_pose.mp4" autoplay loop muted></video>
-        <video class="videoContainer" src="../../../animation_page_pics/face_expression.mp4" autoplay loop muted></video>
-        <video class="videoContainer" src="../../../animation_page_pics/Fountain.mp4" autoplay loop muted></video>
-        <video class="videoContainer" src="../../../animation_page_pics/walk_to_run.mp4" autoplay loop muted></video>    
+        <video class="videoContainer" src="../../../animation_page_pics/blob.mp4" autoplay loop muted playsinline></video>
+        <video class="videoContainer" src="../../../animation_page_pics/extreme_pose.mp4" autoplay loop muted playsinline></video>
+        <video class="videoContainer" src="../../../animation_page_pics/face_expression.mp4" autoplay loop muted playsinline></video>
+        <video class="videoContainer" src="../../../animation_page_pics/Fountain.mp4" autoplay loop muted playsinline></video>
+        <video class="videoContainer" src="../../../animation_page_pics/walk_to_run.mp4" autoplay loop muted playsinline></video>    
     </div>
 
     <LeftAndRightArrow {...nav_obj}/>
