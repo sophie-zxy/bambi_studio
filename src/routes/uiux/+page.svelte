@@ -27,13 +27,11 @@
 
 </script>
 
-<html lang="postcss">
-    <div class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-10 py-20 px-10">
-        {#each cards as card}
-            <UIUXCardComponent {...card}/>
-        {/each}
-    </div>
-    <div class="flex justify-end">
-        <RightArrow link_txt="Graphic design" link="/graphic_design"/>
-    </div>
-</html>
+<div class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-10 py-20 px-10">
+    {#each cards as card}
+        <UIUXCardComponent {...card}/>
+    {/each}
+</div>
+<div class="flex justify-end">
+    <RightArrow link_txt="Graphic design" link="/graphic_design"/>
+</div>
