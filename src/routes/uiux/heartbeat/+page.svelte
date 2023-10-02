@@ -1,5 +1,5 @@
 <div class="bg-black">
-    <div class="hero min-h-screen" style="background-image: url('../../../uiux_heartbeat_page_pics/Hb.png');">
+    <div class="hero min-h-screen" style="background-image: url('../../../uiux_heartbeat_page_pics/Hb.webp');">
         <div class="hero-overlay bg-opacity-60"></div>
         <div class="text-neutral-content">
           <div class="mr-12 md:mr-40 lg:mr-52 xl:mr-auto ml-12 max-w-3xl">
@@ -9,7 +9,7 @@
         </div>
     </div>
 </div>
-<video class="videoContainer w-full" src="../../../uiux_heartbeat_page_pics/App_demoreel.mp4" autoplay loop muted></video>
+<img class="videoContainer w-full" src="../../../uiux_heartbeat_page_pics/App_demoreel.webp" alt="App demo reel">
 <div class="grid justify-items-center mt-40">
     <h1 class="text-heading mb-5 text-4xl">Research: User Interview</h1>
     <p class="my-3 text-md">Do you like music?</p>
@@ -41,32 +41,32 @@
         <div class="max-w-6xl">
             <div class="mb-20">
                 <h1 class="pic-heading mb-7 mt-16 text-4xl">User Personas</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/heartbeat1.png" alt="heartbeat1">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/heartbeat2.png" alt="heartbeat2">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/heartbeat1.webp" alt="heartbeat1">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/heartbeat2.webp" alt="heartbeat2">
             </div>
             <div class="mb-20">
                 <h1 class="pic-heading mb-7 mt-16 text-4xl">User Flow</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/hb flow.png" alt="flow">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/hb flow.webp" alt="flow">
             </div>
             <div class="mb-20">
                 <h1 class="pic-heading mb-7 mt-16 text-4xl">User Journey</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/userjourney.png" alt="userjourney">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/userjourney.webp" alt="userjourney">
             </div>
             <div class="mb-20">
                 <h1 class="pic-heading mb-7 mt-16 text-4xl">Design Element</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/HB Design Element.png" alt="element">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/HB Design Element.webp" alt="element">
             </div>
             <div class="mb-20">
                 <h1 class="pic-heading mb-7 mt-16 text-4xl">Wireframe</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/wireframe.png" alt="Wireframe">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/wireframe.webp" alt="Wireframe">
             </div>
             <div class="mb-20">
                 <h1 class="pic-heading mb-7 mt-16 text-4xl">Visual Design</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/music page.png" alt="Visual">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 10.png" alt="Visual1">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 11.png" alt="Visual2">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 12.png" alt="Visual3">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 13.png" alt="Visual4">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/music page.webp" alt="Visual">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 10.webp" alt="Visual1">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 11.webp" alt="Visual2">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 12.webp" alt="Visual3">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 13.webp" alt="Visual4">
             </div>
         </div>
     </div>

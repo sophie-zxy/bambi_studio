@@ -1,5 +1,5 @@
 <html lang="postcss">
-    <video class="videoContainer w-full" src="../../../uiux_smug_page_pics/Final Render W Audio-mac.mp4" autoplay loop muted></video>
+    <img class="videoContainer w-full" src="../../../uiux_smug_page_pics/Final Render W Audio-mac.webp" alt="Smug+ video">
     <div class="mx-12 md:mx-40 lg:mx-52 xl:mx-auto mt-12 max-w-5xl">
         <h1 class="text-4xl mb-10">About</h1>
         <p class="text-xl mb-10">A smart cup brand dedicated to enhancing the convenience and information that comes with your favorite beverage.</p>

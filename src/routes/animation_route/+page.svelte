@@ -12,13 +12,13 @@
 <html lang="postcss">
     <div class="videoContainerWrapper">
         <div class="cropContainer">
-            <img class="videoContainer cropVideo" src="../../../animation_page_pics/FIT.gif" alt="FIT animation">
+            <img class="videoContainer cropVideo" src="../../../animation_page_pics/FIT.webp" alt="FIT animation">
         </div>        
-        <img class="videoContainer" src="../../../animation_page_pics/blob.gif" alt="blob animation">
-        <img class="videoContainer" src="../../../animation_page_pics/extreme_pose.gif" alt="extreme pose animation">
-        <img class="videoContainer" src="../../../animation_page_pics/face_expression.gif" alt="face expression animation">
-        <img class="videoContainer" src="../../../animation_page_pics/Fountain.gif" alt="Fountain animation">
-        <img class="videoContainer" src="../../../animation_page_pics/walk_to_run.gif" alt="walk to run animation">    
+        <img class="videoContainer" src="../../../animation_page_pics/blob.webp" alt="blob animation">
+        <img class="videoContainer" src="../../../animation_page_pics/extreme_pose.webp" alt="extreme pose animation">
+        <img class="videoContainer" src="../../../animation_page_pics/face_expression.webp" alt="face expression animation">
+        <img class="videoContainer" src="../../../animation_page_pics/Fountain.webp" alt="Fountain animation">
+        <img class="videoContainer" src="../../../animation_page_pics/walk_to_run.webp" alt="walk to run animation">    
     </div>
 
     <LeftAndRightArrow {...nav_obj}/>
