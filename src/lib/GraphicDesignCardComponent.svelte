@@ -31,4 +31,10 @@
     .design {
         border-radius: 2%;
     }
+
+    @media (max-width: 640px) {
+        .card {
+            width: 90%;
+        }
+    }
 </style>

@@ -20,6 +20,8 @@
     "d3-cloud": "^1.2.7",
     "d3-sankey": "^0.12.3",
     "daisyui": "^3.8.0",
+    "flowbite": "^1.8.1",
+    "flowbite-svelte": "^0.44.18",
     "postcss": "^8.4.30",
     "svelte": "^4.0.5",
     "svelte-check": "^3.4.3",
@@ -33,8 +35,6 @@
     "@fontsource-variable/roboto-slab": "^5.0.12",
     "@fontsource/eb-garamond": "^5.0.8",
     "@popperjs/core": "^2.11.8",
-    "flowbite": "^1.8.1",
-    "flowbite-svelte": "^0.44.17",
     "mdbsvelte": "^1.0.12",
     "svelte-chartjs": "github:SauravKanchan/svelte-chartjs#renovate/svelte-4.x",
     "tailwind-merge": "^1.14.0"

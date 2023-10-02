@@ -6,7 +6,7 @@
         {id: 2, title: "Event Poster", src:"../../../graphic_page_pics/poster2.png"},
         {id: 3, title: "Event Poster", src:"../../../graphic_page_pics/poster3.png"},
         {id: 4, title: "Poster", src:"../../../graphic_page_pics/poster4.png"},
-        {id: 5, title: "Menu", src:"../../../graphic_page_pics/poster5.png"},
+        {id: 5, title: "Poster", src:"../../../graphic_page_pics/poster5.png"},
         {id: 6, title: "Poster", src:"../../../graphic_page_pics/poster6.png"},
         {id: 7, title: "Menu", src:"../../../graphic_page_pics/poster7.png"},
         {id: 8, title: "Poster", src:"../../../graphic_page_pics/poster8.png"},
@@ -15,10 +15,10 @@
         {id: 11, title: "Poster", src:"../../../graphic_page_pics/poster11.png"},
         {id: 12, title: "Poster", src:"../../../graphic_page_pics/poster12.png"},
         {id: 13, title: "Postcard", src:"../../../graphic_page_pics/poster13.png"},
-        {id: 14, title: "Postcard", src:"../../../graphic_page_pics/poster14.png"},
-        {id: 15, title: "Postcard", src:"../../../graphic_page_pics/poster15.png"},
-        {id: 16, title: "Postcard", src:"../../../graphic_page_pics/poster16.png"},
-        {id: 17, title: "Postcard", src:"../../../graphic_page_pics/poster17.png"},
+        {id: 14, title: "Menu", src:"../../../graphic_page_pics/poster14.png"},
+        {id: 15, title: "Menu", src:"../../../graphic_page_pics/poster15.png"},
+        {id: 16, title: "Poster", src:"../../../graphic_page_pics/poster16.png"},
+        {id: 17, title: "Poster", src:"../../../graphic_page_pics/poster17.png"},
         // {id: 18, title: "Event Poster", src:"../../../graphic_page_pics/poster18.png"},
     ]
     let nav_obj = {
