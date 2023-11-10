@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for file in *.png; do
-  base=$(basename "$file" .png)
+for file in *.jpg; do
+  base=$(basename "$file" .jpg)
   ffmpeg -i "$file" "${base}.webp"
 done

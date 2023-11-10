@@ -23,6 +23,13 @@
             src: '../../../uiux_easychoice_page_pics/easychoice translucent.png',
             link: '/uiux/easychoice'
         },
+        {
+            id: 4, 
+            title: "Eazzy Consulting", 
+            desc: "Based on the original Eazzy Consulting website (Loan Service), optimizing the website according to the brand logo color scheme, adding Login and Online Payment, and adjusting the visual effect of the website as well as increasing the user experience. All functionality and design were achieved through Hubspot.",
+            src: '../../../uiux_eazzyconsulting/cover.webp',
+            link: '/uiux/eazzyconsulting'
+        },
     ]
 
 </script>
