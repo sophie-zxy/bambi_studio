@@ -3,6 +3,7 @@
     import '@fontsource-variable/roboto-slab';
     import "@fontsource/eb-garamond";
     import Hamburger from '$lib/Hamburger.svelte'
+    
   </script>
   
   <style>
