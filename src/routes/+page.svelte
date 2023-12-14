@@ -3,7 +3,7 @@
 
     const images = [
         { src: "../../Home_page_pics/wireframe.png", text: "UIUX", link: '/uiux' },
-        { src: "../../Home_page_pics/poster.jpg", text: "Graphic Design", link: '/graphic_design' },
+        { src: "../../Home_page_pics/graphic_d.png", text: "Graphic Design", link: '/graphic_design' },
         { src: "../../Home_page_pics/fitlogo.png", text: "Animation", link: '/animation_route' },
         { src: "../../Home_page_pics/Immigrate.JPG", text: "Illustration", link: '/illustration' },
         { src: "../../Home_page_pics/drawing.JPG", text: "Sketches", link: '/sketches_route' },
