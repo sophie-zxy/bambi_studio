@@ -7,7 +7,7 @@
             title: "Heartbeat", 
             desc: "A music app that can link people with similar music tastes. This is a music software that can search for nearby users who listen to the same song as you, and you can choose to chat or not. Through different music types and works, find people with the same taste to become friends. Help those who are not good at expressing and communicating. Not only look at people’s appearance, no need to define others by appearance.",
             src: '../../../uiux_page_pics/Heartbeat.png',
-            link: '/uiux/heartbeat'
+            link: 'https://www.figma.com/proto/JjTVVdQ3i1csjyvdh12091/Heartbeat-2023?page-id=1224%3A52697&type=design&node-id=1279-69588&viewport=146%2C812%2C0.06&t=HOEy5Uok05cV7jac-1&scaling=scale-down-width'
         },
         {
             id: 2, 
@@ -28,7 +28,7 @@
             title: "Easychoice", 
             desc: "A site to help people with selection difficulties, you can choose a category that you need most at the moment and the site will give you a random answer. You can also add your own personal options, or add new categories.",
             src: '../../../uiux_easychoice_page_pics/easychoice translucent.png',
-            link: '/uiux/easychoice'
+            link: 'https://www.figma.com/proto/rmMoWaGbYSCVFT8Gpo6kgy/EasyChoice-2023?page-id=1011%3A2868&type=design&node-id=1011-4413&viewport=400%2C441%2C0.03&t=7B6NDfQGP7mLXCey-1&scaling=scale-down-width&mode=design'
         },
     ]
 
