@@ -3,70 +3,44 @@
         <div class="hero-overlay bg-opacity-60"></div>
         <div class="text-neutral-content">
           <div class="mr-12 md:mr-40 lg:mr-52 xl:mr-auto ml-12 max-w-3xl">
-            <h1 class="mb-5 text-5xl">Introduction</h1>
-            <p class="mb-5 text-xl">This is a music software that can search for nearby users who listen to the same song as you, and you can choose to chat or not.</p>
+            <h1 class="mb-5 text-5xl">Heartbeat App</h1>
+            <p class="mb-5 text-xl">This music software can search for nearby users who listen to the same song as you, and you can choose to chat or not.</p>
             <p class="mb-5 text-xl">Through different music types and works, find people with the same taste to become friends.</p>
         </div>
     </div>
 </div>
 <img class="videoContainer w-full" src="../../../uiux_heartbeat_page_pics/App_demoreel.webp" alt="App demo reel">
-<div class="grid justify-items-center mt-40">
-    <h1 class="text-heading mb-5 text-4xl">Research: User Interview</h1>
-    <p class="my-3 text-md">Do you like music?</p>
-    <p class="my-3 text-md">Are you shy to post yourself on social media?</p>
-    <p class="my-3 text-md">Are you afraid to communicate with people?</p>
-    <p class="my-3 text-md">Are you used to listening to music by yourself?</p>
-</div>
+<img class="about prototype" src="../../../uiux_heartbeat_page_pics/About + Prototype.png" alt="About + Prototype" 
+link: https://www.figma.com/proto/JjTVVdQ3i1csjyvdh12091/Heartbeat-2023?page-id=1110%3A32248&type=design&node-id=1110-33966&viewport=-1013%2C-238%2C0.2&t=9cQYtwj0sj5hvHcj-1&scaling=scale-down&starting-point-node-id=1110%3A33966&mode=design>
+
 <div class="mx-12">
-    <div class="grid justify-items-center">
-        <div class="grid justify-items-start">
-            <h1 class="text-heading my-7 text-4xl">Problem</h1>
-            <ul class="pl-5">
-                <li>Most of the current social media are photo social media</li>
-                <li>People who are not confident about their looks or body may not be able to use this kind of software</li>
-                <li>People who do not like to post their photos also do not suit this kind of social media</li>
-                <li>Some people will steal other people's photos</li>
-            </ul>
-    
-            <h1 class="text-heading my-7 text-4xl">Solution</h1>
-            <p class="pl-5 pb-7">There is a music software that can search for nearby users who listen to the same song as you. And you can choose to chat with them or not.</p>
-            <ul class="pl-5">
-                <li>Through different music types and works, find people with the same taste to become friends</li>
-                <li>Help those who are not good at expressing and communicating</li>
-                <li>Not only look at people’s appearance, no need to define others by appearance</li>
-            </ul>
-        </div>
-    </div>
+
     <div class="grid justify-items-center">
         <div class="max-w-6xl">
+          
             <div class="mb-20">
-                <h1 class="pic-heading mb-7 mt-16 text-4xl">User Personas</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/heartbeat1.webp" alt="heartbeat1">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/heartbeat2.webp" alt="heartbeat2">
+                
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/problem.png" alt="flow">
             </div>
             <div class="mb-20">
-                <h1 class="pic-heading mb-7 mt-16 text-4xl">User Flow</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/hb flow.webp" alt="flow">
+              
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/research.png" alt="userjourney">
             </div>
             <div class="mb-20">
-                <h1 class="pic-heading mb-7 mt-16 text-4xl">User Journey</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/userjourney.webp" alt="userjourney">
+                
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/solutions.png" alt="element">
             </div>
             <div class="mb-20">
-                <h1 class="pic-heading mb-7 mt-16 text-4xl">Design Element</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/HB Design Element.webp" alt="element">
+               
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Wireframe.png" alt="Wireframe">
             </div>
             <div class="mb-20">
-                <h1 class="pic-heading mb-7 mt-16 text-4xl">Wireframe</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/wireframe.webp" alt="Wireframe">
-            </div>
-            <div class="mb-20">
-                <h1 class="pic-heading mb-7 mt-16 text-4xl">Visual Design</h1>
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/music page.webp" alt="Visual">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 10.webp" alt="Visual1">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 11.webp" alt="Visual2">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 12.webp" alt="Visual3">
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Frame 13.webp" alt="Visual4">
+            
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/User Personas.png" alt="Visual">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/User Journey.png" alt="Visual1">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Hifi Design.png" alt="Visual2">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/all screen.png" alt="Visual3">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/thanks.png" alt="Visual4">
             </div>
         </div>
     </div>
