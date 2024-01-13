@@ -37,7 +37,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       id: 2,
       title: "Eazzy Consulting",
       desc: "Based on the original Eazzy Consulting website (Loan Service), optimizing the website according to the brand logo color scheme, adding Login and Online Payment, and adjusting the visual effect of the website as well as increasing the user experience. All functionality and design were achieved through Hubspot.",
-      src: "../../../uiux_eazzyconsulting/cover2.webp",
+      src: "../../../uiux_eazzyconsulting/cover.webp?id=abc",
       link: "/uiux/eazzyconsulting"
     },
     {
