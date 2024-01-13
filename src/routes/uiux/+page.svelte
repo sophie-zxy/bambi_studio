@@ -13,7 +13,7 @@
             id: 2, 
             title: "Eazzy Consulting", 
             desc: "Based on the original Eazzy Consulting website (Loan Service), optimizing the website according to the brand logo color scheme, adding Login and Online Payment, and adjusting the visual effect of the website as well as increasing the user experience. All functionality and design were achieved through Hubspot.",
-            src: '../../../uiux_eazzyconsulting/cover.webp?id=abc',
+            src: '../../../uiux_eazzyconsulting/cover.webp',
             link: '/uiux/eazzyconsulting'
         },
         {
@@ -28,7 +28,7 @@
             title: "Easychoice", 
             desc: "A site to help people with selection difficulties, you can choose a category that you need most at the moment and the site will give you a random answer. You can also add your own personal options, or add new categories.",
             src: '../../../uiux_easychoice_page_pics/easychoice translucent.png',
-            link: 'https://www.figma.com/proto/rmMoWaGbYSCVFT8Gpo6kgy/EasyChoice-2023?page-id=1011%3A2868&type=design&node-id=1011-4413&viewport=400%2C441%2C0.03&t=7B6NDfQGP7mLXCey-1&scaling=scale-down-width&mode=design'
+            link: 'https://www.figma.com/proto/rmMoWaGbYSCVFT8Gpo6kgy/EasyChoice-2023?type=design&node-id=1041-34142&t=iCDBw4jK48qt3Xxe-0&scaling=scale-down-width&page-id=1011%3A2868'
         },
     ]
 
