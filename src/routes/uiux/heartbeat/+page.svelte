@@ -10,8 +10,7 @@
     </div>
 </div>
 <img class="videoContainer w-full" src="../../../uiux_heartbeat_page_pics/App_demoreel.webp" alt="App demo reel">
-<img class="about prototype" src="../../../uiux_heartbeat_page_pics/About + Prototype.png" alt="About + Prototype" 
-link: https://www.figma.com/proto/JjTVVdQ3i1csjyvdh12091/Heartbeat-2023?page-id=1110%3A32248&type=design&node-id=1110-33966&viewport=-1013%2C-238%2C0.2&t=9cQYtwj0sj5hvHcj-1&scaling=scale-down&starting-point-node-id=1110%3A33966&mode=design>
+<img class="about prototype" src="../../../uiux_heartbeat_page_pics/About + Prototype.png" alt="About + Prototype">
 
 <div class="mx-12">
 
