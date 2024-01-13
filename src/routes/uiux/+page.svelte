@@ -7,13 +7,13 @@
             title: "Heartbeat", 
             desc: "A music app that can link people with similar music tastes. This is a music software that can search for nearby users who listen to the same song as you, and you can choose to chat or not. Through different music types and works, find people with the same taste to become friends. Help those who are not good at expressing and communicating. Not only look at people’s appearance, no need to define others by appearance.",
             src: '../../../uiux_page_pics/Heartbeat.png',
-            link: "/"
+            link: 'https://www.figma.com/proto/JjTVVdQ3i1csjyvdh12091/Heartbeat-2023?page-id=1224%3A52697&type=design&node-id=1279-69588&viewport=146%2C812%2C0.06&t=HOEy5Uok05cV7jac-1&scaling=scale-down-width'
         },
         {
             id: 2, 
             title: "Eazzy Consulting", 
             desc: "Based on the original Eazzy Consulting website (Loan Service), optimizing the website according to the brand logo color scheme, adding Login and Online Payment, and adjusting the visual effect of the website as well as increasing the user experience. All functionality and design were achieved through Hubspot.",
-            src: '../../../uiux_eazzyconsulting/cover.webp',
+            src: '../../../uiux_eazzyconsulting/cover2.webp',
             link: '/uiux/eazzyconsulting'
         },
         {
