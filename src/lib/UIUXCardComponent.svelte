@@ -44,7 +44,14 @@
     .btn {
         font-size: small;
         font-weight: 300;
+        color: white;
         background-color: rgba(199,147,136,255);
         border-color: rgba(199,147,136,255);
+        
     }
+    .btn:hover {
+      background-color: rgba(148, 112, 105, 255);
+      transition: 0.7s;
+      border-color: rgba(148, 112, 105, 255);
+  }
 </style>
