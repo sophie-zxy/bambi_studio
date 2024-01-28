@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# chmod +x convert_to_webp.sh
+# chmod +x convertToWebM.sh
 
 # Array of extensions
 extensions=("png" "jpg" "jpeg" "gif")
