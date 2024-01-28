@@ -10,38 +10,26 @@
     </div>
 </div>
 <img class="videoContainer w-full" src="../../../uiux_heartbeat_page_pics/App_demoreel.webp" alt="App demo reel">
-<img class="about prototype" src="../../../uiux_heartbeat_page_pics/About + Prototype.png" alt="About + Prototype">
+<a rel="external" href="https://www.figma.com/proto/JjTVVdQ3i1csjyvdh12091/Heartbeat-2023?page-id=1110%3A32248&type=design&node-id=1110-33966&viewport=-1013%2C-238%2C0.2&t=NkIjS2eTzViIoXa6-1&scaling=scale-down&starting-point-node-id=1110%3A33966/">
+    <img class="about prototype" src="../../../uiux_heartbeat_page_pics/About + Prototype.png" alt="About + Prototype">
+</a>
 
-<div class="mx-12">
+
+<div class="mx-0">
 
     <div class="grid justify-items-center">
-        <div class="max-w-6xl">
-          
-            <div class="mb-20">
-                
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/problem.png" alt="flow">
-            </div>
-            <div class="mb-20">
-              
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/research.png" alt="userjourney">
-            </div>
-            <div class="mb-20">
-                
-                <img class="img-group" src="../../../uiux_heartbeat_page_pics/solutions.png" alt="element">
-            </div>
-            <div class="mb-20">
-               
+        
+            <div class="mb-0">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Problem.png" alt="problem">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Research.png" alt="research">
+                <img class="img-group" src="../../../uiux_heartbeat_page_pics/Solutions.png" alt="solutions">
                 <img class="img-group" src="../../../uiux_heartbeat_page_pics/Wireframe.png" alt="Wireframe">
-            </div>
-            <div class="mb-20">
-            
                 <img class="img-group" src="../../../uiux_heartbeat_page_pics/User Personas.png" alt="Visual">
                 <img class="img-group" src="../../../uiux_heartbeat_page_pics/User Journey.png" alt="Visual1">
                 <img class="img-group" src="../../../uiux_heartbeat_page_pics/Hifi Design.png" alt="Visual2">
                 <img class="img-group" src="../../../uiux_heartbeat_page_pics/all screen.png" alt="Visual3">
                 <img class="img-group" src="../../../uiux_heartbeat_page_pics/thanks.png" alt="Visual4">
             </div>
-        </div>
     </div>
 </div>
 </div>
