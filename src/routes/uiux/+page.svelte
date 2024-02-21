@@ -21,14 +21,14 @@
             id: 3, 
             title: "SMUG", 
             desc: "A smart cup brand dedicated to enhancing the convenience and information that comes with your favorite beverage. We envisioned a cup with an app that can heat a beverage, keeps it warm, stir your drink, and track your daily intake.",
-            src: '../../../uiux_page_pics/smug.png',
+            src: '../../../uiux_page_pics/smug cover.png',
             link: '/uiux/smug'
         },
         {
             id: 4, 
             title: "Eazzy Consulting", 
             desc: "Based on the original Eazzy Consulting website (Loan Service), optimizing the website according to the brand logo color scheme, adding Login and Online Payment, and adjusting the visual effect of the website as well as increasing the user experience. All functionality and design were achieved through Hubspot.",
-            src: '../../../uiux_eazzyconsulting/cover.webp',
+            src: '../../../uiux_page_pics/eazzyconsulting cover.png',
             link: '/uiux/eazzyconsulting'
         },
     ]

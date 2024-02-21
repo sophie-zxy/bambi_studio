@@ -11,8 +11,8 @@
         { name: "Graphic Designs", href: "/graphic_design" },
         { name: "Animations", href: "/animation_route" },
         { name: "Illustrations", href: "/illustration" },
-        { name: "Sketches", href: "/sketches_route" },
-        { name: "Photography", href: "/photography" },
+        // { name: "Sketches", href: "/sketches_route" },
+        // { name: "Photography", href: "/photography" },
     ];
 </script>
 
