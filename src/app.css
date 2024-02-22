@@ -17,3 +17,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.footer {
+  background-color: rgb(255, 255, 255); /* 修改页脚背景颜色 */
+  color: rgb(0, 0, 0); /* 修改页脚文字颜色 */
+  padding: 20px; /* 修改页脚内边距 */
+  /* 添加任何其他页脚样式 */
+}
