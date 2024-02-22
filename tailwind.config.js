@@ -5,7 +5,11 @@ export default {
     "./node_modules/flowbite-svelte/**/*.{html,js,svelte,ts}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['"Poppins"', "sans-serif"], // 在这里添加Poppins作为默认sans-serif字体
+      },
+    },
   },
   plugins: [require("daisyui"), require("flowbite/plugin")],
   daisyui: {

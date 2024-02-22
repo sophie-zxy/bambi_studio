@@ -1,14 +1,17 @@
 <script>
     import "../app.css";
-    import '@fontsource-variable/roboto-slab';
-    import "@fontsource/eb-garamond";
+    // import '@fontsource-variable/roboto-slab';
+    // import "@fontsource/eb-garamond";
     import Hamburger from '$lib/Hamburger.svelte'
     
   </script>
   
   <style>
     :global(body) {
-        font-family: 'EB Garamond';
+        /* font-family: 'EB Garamond'; */
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
     }
   </style>
 
