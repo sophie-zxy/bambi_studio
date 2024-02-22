@@ -24,7 +24,7 @@
                 {#each navLinks as link}
                     <a class="menuItems" href={link.href} on:click={toggleModal}>{link.name}</a>
                 {/each}
-                <div class="flex space-x-4 mt-4">
+                <div class="flex space-x-4 mt-4 items-center">
                     <a href="https://www.instagram.com/_lightnlight/?igshid=YmMyMTA2M2Y%3D">
                         <InstagramSvg/>
                     </a>
@@ -68,7 +68,7 @@
     }
     .menuItems {
         margin: 10px;
-        font-size: 24px;
+        font-size: 18px;
         color: black;
         text-decoration: none;
         padding: 10px;
@@ -102,4 +102,7 @@
             display: block;
         }
     }
+
+    
 </style>
+
