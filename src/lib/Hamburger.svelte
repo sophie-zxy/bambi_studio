@@ -7,10 +7,10 @@
         openModal = !openModal;
     }
     const navLinks = [
-        { name: "UIUX", href: "/uiux" },
-        { name: "Graphic Designs", href: "/graphic_design" },
-        { name: "Animations", href: "/animation_route" },
-        { name: "Illustrations", href: "/illustration" },
+        { name: "UIUX DESIGNS", href: "/uiux" },
+        { name: "GRAPHIC DESIGNS", href: "/graphic_design" },
+        { name: "ANIMATIONS", href: "/animation_route" },
+        { name: "ILLUSTRATIONS", href: "/illustration" },
         // { name: "Sketches", href: "/sketches_route" },
         // { name: "Photography", href: "/photography" },
     ];
@@ -48,7 +48,7 @@
 
 <style>
     .test {
-        background-color: papayawhip;
+        background-color: rgb(255, 255, 255);
         position: fixed;
         top: 0;
         bottom: 0;

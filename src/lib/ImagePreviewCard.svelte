@@ -38,6 +38,7 @@
         will-change: transform;
         transition: transform 200ms;
         transform-origin: center center; /* 将放大/缩小的中心点设置为卡片中心 */
+        margin: -.3rem; 
     }
     .inner-card {
         width: 20rem;
@@ -57,9 +58,12 @@
     }
 
     @media (max-width: 640px) {
+        .card-container {
+        margin: -.5rem; 
+    }
         .inner-card {
-            width: 10rem;
-            height: 10rem;
+            width: 11rem;
+            height: 11rem;
             border-radius: 0%;
         }
         .text {
