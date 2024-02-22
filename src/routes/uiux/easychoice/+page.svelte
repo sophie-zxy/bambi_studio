@@ -1,4 +1,4 @@
-
+<!-- 
 <script>
 import { browser } from '$app/environment';
 import { onMount } from 'svelte';
@@ -172,4 +172,47 @@ import { PieChart, BarChartSimple } from '@carbon/charts-svelte'
     .text-heading-group {
         color: rgba(199,146,136,255)
     }
-</style>
+</style> -->
+
+
+<!-- <div class="bg-black">
+    <div class="hero min-h-screen" style="background-image: url('../../../uiux_heartbeat_page_pics/Hb.webp');">
+        <div class="hero-overlay bg-opacity-60"></div>
+        <div class="text-neutral-content">
+          <div class="mr-12 md:mr-40 lg:mr-52 xl:mr-auto ml-12 max-w-3xl">
+            <h1 class="mb-5 text-5xl">Heartbeat App</h1>
+            <p class="mb-5 text-xl">This music software can search for nearby users who listen to the same song as you, and you can choose to chat or not.</p>
+            <p class="mb-5 text-xl">Through different music types and works, find people with the same taste to become friends.</p>
+        </div>
+    </div> -->
+<!-- </div> -->
+
+
+<img class="img-group" src="../../../uiux_easychoice_page_pics/intro.webp" alt="intro">
+<a rel="external" href="https://www.figma.com/proto/rmMoWaGbYSCVFT8Gpo6kgy/EasyChoice-2023?page-id=1084%3A20583&type=design&node-id=1084-29248&viewport=327%2C-33%2C0.1&t=ZtU4crBInxLV68jv-1&scaling=scale-down&starting-point-node-id=1084%3A25836">
+    <img class="about prototype" src="../../../uiux_easychoice_page_pics/prototype.webp" alt="Prototype">
+</a>
+
+
+<div class="mx-0">
+
+    <div class="grid justify-items-center">
+        
+            <div class="mb-0">
+               
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/research.webp" alt="research">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/solution.webp" alt="solutions">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/user flow.webp" alt="solutions">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/wireframe1.webp" alt="Wireframe">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/style guide.webp" alt="solutions">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/Frame 27.webp" alt="Visual">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/user persona.webp" alt="Visual1">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/hifi design.webp" alt="Visual2">
+          
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/all screen.webp" alt="Visual3">
+                <img class="img-group" src="../../../uiux_easychoice_page_pics/thank u.webp" alt="Visual4">
+            </div>
+    </div>
+</div>
+<!-- </div> -->
+
