@@ -48,7 +48,7 @@
 
 <style>
     .test {
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(240, 240, 240);
         position: fixed;
         top: 0;
         bottom: 0;
@@ -102,7 +102,5 @@
             display: block;
         }
     }
-
-    
 </style>
 

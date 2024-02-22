@@ -25,3 +25,9 @@
         </li>
     </ul>
 </div>
+
+<style>
+    body {
+        background-color: white !important;
+    }
+</style>
