@@ -23,13 +23,13 @@
     }
 
     .card-body {
-        font-family: 'EB Garamond';
+        /* font-family: 'EB Garamond'; */
         font-weight: 100;
         color: black;
     }
 
     .design {
-        border-radius: 2%;
+        border-radius: 0%;
     }
 
     @media (max-width: 640px) {
