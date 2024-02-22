@@ -48,7 +48,7 @@
 
 <style>
     .test {
-        background-color: rgb(240, 240, 240);
+        background-color: rgb(255, 255, 255);
         position: fixed;
         top: 0;
         bottom: 0;
@@ -73,7 +73,7 @@
         text-decoration: none;
         padding: 10px;
         border-radius: 5px;
-        transition: background-color 0.3s ease-in-out;
+        transition: 0.3s ease-in-out;
         align-self: stretch;
         display: flex;
         align-items: center;

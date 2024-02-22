@@ -28,6 +28,6 @@
 
 <style>
     body {
-        background-color: white !important;
+        background-color: white;
     }
 </style>

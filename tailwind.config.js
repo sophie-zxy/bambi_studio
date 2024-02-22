@@ -13,6 +13,6 @@ export default {
   },
   plugins: [require("daisyui"), require("flowbite/plugin")],
   daisyui: {
-    themes: ["dark", "autumn"],
+    themes: ["light", "white"],
   },
 };
