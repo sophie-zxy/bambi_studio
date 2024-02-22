@@ -58,8 +58,8 @@
 
     @media (max-width: 640px) {
         .inner-card {
-            width: 12rem;
-            height: 12rem;
+            width: 10rem;
+            height: 10rem;
             border-radius: 0%;
         }
         .text {
