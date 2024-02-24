@@ -8,31 +8,58 @@
         // right_link: "/sketches_route"
     }
     let images = [
-        {src: "../../illustration_page_pics/Child.jpg", alt: "Child"},
-        {src: "../../illustration_page_pics/Christmas Snow.GIF", alt: "Snow"},
-        {src: "../../illustration_page_pics/Diamond.jpg", alt: "Diamond"},
+        {src: "../../illustration_page_pics/illustration2.webp", alt: "Snow"},
+       
         {src: "../../illustration_page_pics/Flushing.JPG", alt: "Flushing"},
+     
+        {src: "../../sketches_page_pics/illustration1.webp", alt: "town"},
+       
+       
         {src: "../../illustration_page_pics/Game Card.PNG", alt: "Game Card"},
-        {src: "../../illustration_page_pics/High Heel.jpg", alt: "High heel"},
+        {src: "../../illustration_page_pics/illustration13.webp", alt: "High heel"},
         {src: "../../illustration_page_pics/IMG_3496.jpg", alt: "img"},
-        {src: "../../illustration_page_pics/Immigrate.JPG", alt: "Immigrate"},
-        {src: "../../illustration_page_pics/Ocean.jpg", alt: "Ocean"},
-        {src: "../../illustration_page_pics/Piano.jpg", alt: "Piano"},
-        {src: "../../illustration_page_pics/Pubg Mucha.JPG", alt: "pubg"},
-        {src: "../../illustration_page_pics/Rabbit.jpg", alt: "Rabbit"},
-        {src: "../../illustration_page_pics/Sunset.JPG", alt: "Sunset"},
-        {src: "../../illustration_page_pics/Yard.JPG", alt: "Yard"},
+       
+       
         {src: "../../sketches_page_pics/IMG_7886.JPG", alt: "IMG3"},
-        {src: "../../sketches_page_pics/Alley.jpg", alt: "Alley"},
-        {src: "../../sketches_page_pics/IMG_1555.JPG", alt: "IMG1"},
-        {src: "../../sketches_page_pics/IMG_1202.jpg", alt: "IMG5"},
-        {src: "../../sketches_page_pics/Rabbit & Hands.jpg", alt: "Rabbit & Hands"},
+        {src: "../../illustration_page_pics/illustration14.webp", alt: "Piano"},
+        {src: "../../sketches_page_pics/illustration24.webp", alt: "IMG8"},
+        {src: "../../illustration_page_pics/Pubg Mucha.JPG", alt: "pubg"},
+     
+        {src: "../../sketches_page_pics/illustration3.webp", alt: "Alley"},
+        {src: "../../illustration_page_pics/Ocean.jpg", alt: "Ocean"},
+       
+        {src: "../../illustration_page_pics/Diamond.jpg", alt: "Diamond"},
+     
+
+        {src: "../../illustration_page_pics/illustration5.webp", alt: "Sunset"},
+        {src: "../../sketches_page_pics/illustration17.webp", alt: "Rabbit & Hands"},
+        {src: "../../illustration_page_pics/Immigrate.JPG", alt: "Immigrate"},
+        
+        {src: "../../sketches_page_pics/illustration7.webp", alt: "IMG6"},
+        {src: "../../illustration_page_pics/illustration9.webp", alt: "IMG8"},
         {src: "../../sketches_page_pics/IMG_1558.JPG", alt: "IMG2"},
-        {src: "../../sketches_page_pics/IMG_7892.JPG", alt: "IMG6"},
-        {src: "../../sketches_page_pics/IMG_7887.JPG", alt: "IMG4"},
-        {src: "../../sketches_page_pics/Town.JPG", alt: "Town"},
-        {src: "../../sketches_page_pics/IMG_7893.JPG", alt: "IM7"},
+
+        {src: "../../illustration_page_pics/illustration4.webp", alt: "Rabbit"},
+        {src: "../../sketches_page_pics/IMG_1202.jpg", alt: "IMG5"},
+        {src: "../../sketches_page_pics/illustration23.webp", alt: "IMG4"},
+      
+        {src: "../../sketches_page_pics/illustration25.webp", alt: "Town"},
+        {src: "../../illustration_page_pics/illustration6.webp", alt: "Yard"},
+        {src: "../../sketches_page_pics/illustration16.webp", alt: "IM7"},
+        {src: "../../illustration_page_pics/illustration21.webp", alt: "IMG8"},
+     
         {src: "../../sketches_page_pics/IMG_7894.JPG", alt: "IMG8"},
+        {src: "../../illustration_page_pics/illustration22.webp", alt: "IMG8"},
+        {src: "../../illustration_page_pics/illustration8.webp", alt: "IMG8"},
+        
+        {src: "../../sketches_page_pics/illustration15.webp", alt: "IMG8"},
+        {src: "../../illustration_page_pics/Christmas Snow.GIF", alt: "Snow"},
+        {src: "../../illustration_page_pics/illustration18.webp", alt: "IMG8"},
+        {src: "../../illustration_page_pics/illustration19.webp", alt: "IMG8"},
+        {src: "../../illustration_page_pics/illustration20.webp", alt: "IMG8"},
+       
+  
+        {src: "../../sketches_page_pics/IMG_1555.JPG", alt: "IMG1"},
     ]
 </script>
 
