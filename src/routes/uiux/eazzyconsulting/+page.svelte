@@ -1,9 +1,10 @@
-<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/1.webp" alt="1">
-<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/2.webp" alt="2">
-<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/3.webp" alt="3">
-<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/4.webp" alt="4">
-<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/5.webp" alt="5">
-
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/Intro.webp" alt="1">
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/Frame 10.webp" alt="2">
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/Frame 11.webp" alt="3">
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/Frame 12.webp" alt="4">
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/Frame 13.webp" alt="5">
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/Frame 14.webp" alt="6">
+<img class="videoContainer w-full" src="../../../uiux_eazzyconsulting/5.webp" alt="8">
 
 <style>
     html {
