@@ -4,12 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
-*,
+/* *,
 *::before,
 *::after {
   font-family: "Poppins", sans-serif !important;
   font-weight: 100 !important;
-}
+} */
 
 body {
   height: 100vh;
