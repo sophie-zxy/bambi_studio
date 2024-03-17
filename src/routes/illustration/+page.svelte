@@ -19,7 +19,7 @@
         {src: "../../illustration_page_pics/illustration13.webp", alt: "High heel"},
         {src: "../../illustration_page_pics/IMG_3496.jpg", alt: "img"},
        
-        {src: "../../illustration_page_pics/IMG_9433.webp", alt: "Sunset"},
+        {src: "../../illustration_page_pics/IMG_9433.webp", alt: "Snow"},
         {src: "../../sketches_page_pics/IMG_7886.JPG", alt: "IMG3"},
         {src: "../../illustration_page_pics/illustration14.webp", alt: "Piano"},
         {src: "../../sketches_page_pics/illustration24.webp", alt: "IMG8"},
@@ -30,7 +30,7 @@
        
         {src: "../../illustration_page_pics/Diamond.jpg", alt: "Diamond"},
      
-        {src: "../../illustration_page_pics/IMG_9892.webp", alt: "Sunset"},
+        {src: "../../illustration_page_pics/IMG_9892.webp", alt: "Octopus"},
         {src: "../../illustration_page_pics/illustration5.webp", alt: "Sunset"},
         {src: "../../sketches_page_pics/illustration17.webp", alt: "Rabbit & Hands"},
         {src: "../../illustration_page_pics/Immigrate.JPG", alt: "Immigrate"},
