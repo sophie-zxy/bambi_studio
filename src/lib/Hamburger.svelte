@@ -9,8 +9,8 @@
     const navLinks = [
         { name: "UIUX DESIGNS", href: "/uiux" },
         { name: "ILLUSTRATIONS", href: "/illustration" },
-        { name: "ANIMATIONS", href: "/animation_route" },
         { name: "GRAPHIC DESIGNS", href: "/graphic_design" },
+        { name: "ANIMATIONS", href: "/animation_route" },
         // { name: "Sketches", href: "/sketches_route" },
         // { name: "Photography", href: "/photography" },
     ];
