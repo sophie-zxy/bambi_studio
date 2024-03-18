@@ -1,15 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* *,
+/* 全局字体设置 */
+/* 更新全局选择器以使用 Helvetica Neue 而不是 Poppins */
+*,
 *::before,
 *::after {
-  font-family: "Poppins", sans-serif !important;
-  font-weight: 100 !important;
-} */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+}
 
 body {
   height: 100vh;
@@ -19,9 +20,11 @@ body {
 }
 
 .footer {
-  background-color: rgb(255, 255, 255); /* 修改页脚背景颜色 */
-  color: rgb(0, 0, 0); /* 修改页脚文字颜色 */
-  padding: 20px; /* 修改页脚内边距 */
+  background-color: rgb(255, 255, 255); /* 保持页脚背景颜色不变 */
+  color: rgb(0, 0, 0); /* 保持页脚文字颜色不变 */
+  padding: 20px; /* 保持页脚内边距不变 */
   /* 添加任何其他页脚样式 */
-  font-size: 11px;
+  font-size: 12px; /* 保持页脚字体大小不变 */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* 明确设置页脚字体 */
+  letter-spacing: 0.6px;
 }

@@ -8,17 +8,16 @@
   
   <style>
     :global(body) {
-        /* font-family: 'EB Garamond'; */
-        font-family: "Poppins", sans-serif;
-        font-weight: 200;
-        font-style: normal;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 200; /* 注意：Helvetica Neue可能不支持200的字体权重 */
+      font-style: normal;
     }
   </style>
 
   <div class="navbar bg-white">
     <div class="flex-1">
       <a class="home-btn btn btn-ghost normal-case text-xl" href="/"
-        >Bambi Li</a
+        >BAMBI LI</a
       >
     </div>
     <Hamburger/>

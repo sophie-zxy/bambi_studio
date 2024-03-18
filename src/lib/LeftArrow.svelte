@@ -15,7 +15,7 @@
 <style>
     .btn {
         /* font-family: "EB Garamond"; */
-        font-size: 14;
+        font-size: 10;
         margin-left: 10;
     }
 

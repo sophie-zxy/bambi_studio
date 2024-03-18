@@ -28,6 +28,11 @@
         color: black;
     }
 
+    .card-title {
+        font-weight: 200; /* 或者根据需要调整，比如 100, 200, 300 来使标题更细 */
+        font-size: 14px;
+    }
+
     .design {
         border-radius: 0%;
     }
