@@ -29,8 +29,8 @@
     }
 
     .card-body {
-        font-family: 'EB Garamond';
-        font-weight: 100;
+        /* font-family: 'EB Garamond'; */
+        font-weight: 250;
         color: black;
     }
     .card-desc {
@@ -38,7 +38,8 @@
     }
 
     .card-title {
-        font-weight: 200;
+        font-weight: 500;
+        font-size: 18px;
     }
 
     .btn {
