@@ -28,7 +28,11 @@
 
 <style>
     .card {
+        max-width: 100%; /* Ensure the card doesn't exceed the viewport width */
+        max-height: 100%;
+        overflow: hidden; /* Hide any overflow content */
         position: relative;
+        border-radius: 0%;
     }
     .card-container {
         display: flex; /* 使用 Flexbox 布局 */
