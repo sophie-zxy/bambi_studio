@@ -7,7 +7,20 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['"Poppins"', "sans-serif"], // 在这里添加Poppins作为默认sans-serif字体
+        sans: ['"Helvetica Neue"', "Helvetica", "Arial", "sans-serif"],
+
+        // 在tailwind.config.js的theme.extend部分
+        fontSize: {
+          24: "24px",
+          14: "14px",
+          // 由于TailwindCSS使用的是rem单位，你可能需要转换像素值
+        },
+        lineHeight: {
+          // 同样地，添加自定义行高值
+        },
+        fontWeight: {
+          // 根据需要添加自定义字体权重
+        },
       },
     },
   },
